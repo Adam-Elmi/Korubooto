@@ -9,7 +9,7 @@ Ciyaartan waxa la dhaha Kor-u-boodo, waa ciyaar ay Somalidu ciyaari jireen wakht
 **Cabdiraxmaan Faarax** `(Barwaaqo)`:
 > Dhulka ayaa laga jeex daa sida shantararadka, shaxda, iwm. Waxay leedahay 25 god oo la dego sida ka muuqata sawirka. Qofkasta oo ciyaarayaa wuxuu la yimaaddaa 12 dhagax oo ka duwan kuwa qofka kale ee la ciyaarayaa sito.
 
-[Koruboodo Board](./assets/korubooto.png)
+![Koruboodo Board](./assets/korubooto.png)
 
 > Intaan la bilaabin waxa dhagxaanta loo dhigaa sida ka muuqata
 sawirka.Haddii 'A' dhagaxiisa hore u raro godka fallaadhu
